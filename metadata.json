@@ -1,0 +1,6 @@
+{
+  "name": "Taxigo",
+  "description": "ტაქსის გამოძახების მობილური აპლიკაცია (მგზავრი, მძღოლი, ადმინ პანელი, ცოცხალი რუკა, ტარიფები, გადახდა და შეკვეთის სრული ციკლი)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
